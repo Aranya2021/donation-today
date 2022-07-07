@@ -1,0 +1,49 @@
+body{
+    font-family:'Signika', sans-serif;;
+}
+small{
+    font-size: x-small;
+}
+.top-banner{
+    background-image: url(/donate-today-main/images/donation9a.png);
+    background: cover;
+    background-repeat: no-repeat; 
+    
+}
+
+.container{
+    position: cover;
+    text-align: center;  
+    
+}
+.center{
+    position: absolute;
+    top: 100%;
+    margin: 0%;
+    background-blend-mode: normal;
+    color: azure;
+    left: 50%;
+    margin-right: 50%;    
+    transform: translate(-50%,-50%);
+    
+}
+
+.link-button{
+    text-decoration: none;        
+    background-image: linear-gradient(pink,red);
+    padding-left: 20px;  
+    padding-top: 8px; 
+    padding-right: 20px;
+    padding-bottom: 8px;
+    color: azure;
+    font-weight: 700 ;
+    border-radius: 5px;
+}
+footer p{
+    position:absolute;
+    bottom: 0;
+    width:100%;
+    height: 2.5rem;
+
+    
+}
